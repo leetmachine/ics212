@@ -1,0 +1,44 @@
+ Keegan Gladstone
+ ICS212 Assignment #3
+ 01/11/16
+
+     2	10:35	ls
+     3	10:35	ls [- | ] [-a]
+     4	10:36	*
+     5	10:36	?
+     6	10:36	dir
+     7	10:36	clear
+     8	10:36	history
+     9	10:36	history
+    10	10:36	emacs filename
+    11	10:39	ls [-l] [-a]
+    12	10:40	ls
+    13	10:40	*
+    14	10:40	*.txt
+    15	10:40	ls *.txt
+    16	10:40	ls ?
+    17	10:40	?
+    18	10:41	ls ?.t
+    19	10:41	ls sample?.txt
+    20	10:42	dir
+    21	10:42	clear
+    22	10:42	history
+    23	10:42	history
+    24	10:42	mkdir dirname
+    25	10:43	mkdir sampledirectory
+    26	10:43	rm sample.txt
+    27	10:44	rmdir sampledirectory
+    28	10:44	cp sample1.txt sample2.txt
+    29	10:45	mv sample1.txt renamesample1.txt
+    30	10:45	cd dirname
+    31	10:46	cd keegang
+    32	10:47	cd
+    33	10:48	cat sample2.txt
+    34	10:48	more sample2.txt
+    35	10:48	less sample2.txt
+    36	10:48	pwd
+    37	10:49	man ls
+    38	10:49	ls > command1.txt
+    39	10:50	./program < input.txt
+    40	10:50	chmod
+    41	10:50	history > GladstoneKeegan02.txt
